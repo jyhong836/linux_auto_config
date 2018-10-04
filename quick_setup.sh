@@ -3,8 +3,8 @@
 # @Last Modified by:   Junyuan Hong
 # @Last Modified time: 2018-10-03
 
-git clone https://github.com/jyhong836/linux_auto_config.git
-cd linux_auto_config
+# git clone https://github.com/jyhong836/linux_auto_config.git
+# cd linux_auto_config
 
 echo setup vim...
 mv vim/* ~/
