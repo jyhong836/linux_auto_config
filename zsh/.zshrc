@@ -198,7 +198,7 @@ export LC_ALL="C"
 
 function gi() { curl -L -s https://www.gitignore.io/api/$@ ;}
 
-source ~/.local/bin/virtualenvwrapper.sh
+# source ~/.local/bin/virtualenvwrapper.sh
 
 zssh() ssh "$@" -t zsh
 
