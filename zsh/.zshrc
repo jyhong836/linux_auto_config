@@ -193,6 +193,7 @@ alias bash='bash --login'
 # export MANPATH="/usr/local/opt/coreutils/libexec/gnuman:$MANPATH"
 
 alias matlab_bash='matlab -nojvm -nosplash'
+alias tmux='tmux -u'
 
 export LC_ALL="C"
 
