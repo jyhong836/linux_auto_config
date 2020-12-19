@@ -13,3 +13,5 @@ mv vim/* ~/
 echo setup zsh...
 mv zsh/zsh-syntax-highlighting/ ~/.local/share/zsh-syntax-highlighting
 mv zsh/.zshrc ~/
+
+mv .tmux.conf ~/
