@@ -203,4 +203,5 @@ function gi() { curl -L -s https://www.gitignore.io/api/$@ ;}
 
 zssh() ssh "$@" -t zsh
 
-export PATH="./local/bin:$PATH"
+# maybe need to replace ~ with the home path.
+# export PATH="~/.local/bin:$PATH"
