@@ -11,6 +11,7 @@ echo setup vim...
 mv vim/* ~/
 
 echo setup zsh...
+mkdir -p ~/.local/share/
 mv zsh/zsh-syntax-highlighting/ ~/.local/share/zsh-syntax-highlighting
 mv zsh/.zshrc ~/
 
